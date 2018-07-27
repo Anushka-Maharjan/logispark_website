@@ -349,7 +349,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .col-md-6 {
-  background: #DAF2EA;
+  background: #c6d69e;
 /* light blue color: #c3eafd; */
   padding-right: 0;
   padding-left: 0;
@@ -493,12 +493,15 @@ a:hover, a:active, a:focus {
 
 #team {
     /*background: url('../images/team-bg.jpg') 50% 0 repeat-y fixed;*/
-    background-color: #daf2ea;
+    background-color: #ffffff;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
     position: relative;
-    padding: 30px 0px 70px 0px;
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 70px;
 }
 
 #team .mallika-img {
