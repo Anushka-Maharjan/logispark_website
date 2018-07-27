@@ -2,6 +2,7 @@
 *.class
 
 .idea
+vcs.xml
 
 # Log file
 *.log
