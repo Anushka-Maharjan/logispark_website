@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef06f9d4-741a-45e9-be65-ea3bd2e158f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" afterPath="$PROJECT_DIR$/css/templatemo-style.css" />
-      <change beforePath="$PROJECT_DIR$/images/anushka.jpg" afterPath="$PROJECT_DIR$/images/anushka.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/logispark.png" afterPath="$PROJECT_DIR$/images/logispark.png" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,8 +57,8 @@
       <file leaf-file-name="templatemo-style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="351" column="21" lean-forward="false" selection-start-line="351" selection-start-column="21" selection-end-line="351" selection-end-column="21" />
+            <state relative-caret-position="403">
+              <caret line="357" column="17" lean-forward="true" selection-start-line="357" selection-start-column="17" selection-end-line="357" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -212,12 +208,20 @@
       <workItem from="1532527222479" duration="7474000" />
       <workItem from="1532575539685" duration="1647000" />
       <workItem from="1532583926835" duration="619000" />
-      <workItem from="1532663534698" duration="3067000" />
+      <workItem from="1532663534698" duration="3213000" />
     </task>
+    <task id="LOCAL-00001" summary="Color changes">
+      <created>1532667106160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532667106160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25818000" />
+    <option name="totallyTimeSpent" value="25964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -268,6 +272,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Color changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -526,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="351" column="21" lean-forward="false" selection-start-line="351" selection-start-column="21" selection-end-line="351" selection-end-column="21" />
+        <state relative-caret-position="403">
+          <caret line="357" column="17" lean-forward="true" selection-start-line="357" selection-start-column="17" selection-end-line="357" selection-end-column="17" />
           <folding />
         </state>
       </provider>
